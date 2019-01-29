@@ -1,0 +1,13 @@
+This line is for initializing.
+BallNull_0
+Ball X BallDistanceLessThanOne X GoalNull_0
+Ball X BallDistanceGreaterThanTwo X BallDirectionIncorrect_1
+Ball X BallDistanceGreaterThanOne X BallDirectionIncorrect_1
+Ball X BallDistanceGreaterThanTwo X BallDirectionCorrect_2
+Ball X BallDistanceGreaterThanOne X BallDirectionCorrect_3
+Ball X BallDistanceLessThanOne X GoalRight X PlayerNull_4
+Ball X BallDistanceLessThanOne X GoalLeft X PlayerNull_4
+Ball X BallDistanceLessThanOne X GoalRight X GoalDirectionGreaterThanPlayerDirection_5
+Ball X BallDistanceLessThanOne X GoalLeft X GoalDirectionGreaterThanPlayerDirection_5
+Ball X BallDistanceLessThanOne X GoalRight X GoalDirectionLessThanPlayerDirection_6
+Ball X BallDistanceLessThanOne X GoalLeft X GoalDirectionLessThanPlayerDirection_6
